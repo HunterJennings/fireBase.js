@@ -1,0 +1,10 @@
+#trains {
+    border: 1px solid black;
+    margin: 10px
+};
+#trainName{
+    margin-right: 20px
+}
+body{
+    background-color: lightslategray
+}
